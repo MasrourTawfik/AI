@@ -14,6 +14,10 @@ This paper extends Bayes by Backprop by using a Gaussian-mixture variational dis
 
 The study evaluates the method on classification benchmarks and also considers epistemic and aleatoric uncertainty estimation.
 
+## Recent citation signal
+
+A 2026 ICLR submission indexed by OpenReview cites this paper explicitly in its bibliography (OpenReview paper id: iOnG4WIFkJ). This indicates continued use of the Gaussian-mixture BCNN work in current research on uncertainty-aware and probabilistic deep learning.
+
 ## Keywords
 
 Bayesian convolutional neural networks; variational inference; Gaussian mixture model; Bayes by Backprop; uncertainty quantification; probabilistic deep learning.
