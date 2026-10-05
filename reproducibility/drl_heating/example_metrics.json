@@ -1,0 +1,36 @@
+{
+  "config": {
+    "seed": 7,
+    "n_surrogate_samples": 5000,
+    "surrogate_epochs": 180,
+    "surrogate_lr": 0.002,
+    "dqn_episodes": 140,
+    "dqn_batch_size": 64,
+    "dqn_lr": 0.0008,
+    "gamma": 0.97,
+    "epsilon_start": 1.0,
+    "epsilon_end": 0.05,
+    "epsilon_decay": 0.988,
+    "target_sync": 20,
+    "replay_capacity": 15000,
+    "max_steps": 35,
+    "speed_step": 0.25,
+    "temp_step": 5.0,
+    "tolerance": 3.0
+  },
+  "surrogate_metrics": {
+    "mae_C": 3.5083305835723877,
+    "rmse_C": 4.557891368865967
+  },
+  "evaluation": [
+    {"target": 440.0, "predicted_outlet": 442.0806579589844, "abs_error": 2.080657958984375, "speed": 4.742260959584486, "zone_temp": 628.6901040202442},
+    {"target": 460.0, "predicted_outlet": 464.1684265136719, "abs_error": 4.168426513671875, "speed": 4.5214160428727, "zone_temp": 669.8075610632193},
+    {"target": 480.0, "predicted_outlet": 479.2153015136719, "abs_error": 0.784698486328125, "speed": 3.4883009526387614, "zone_temp": 624.0205237175895},
+    {"target": 500.0, "predicted_outlet": 499.1471862792969, "abs_error": 0.852813720703125, "speed": 2.444670780541071, "zone_temp": 616.9600131164199},
+    {"target": 520.0, "predicted_outlet": 517.3341064453125, "abs_error": 2.6658935546875, "speed": 2.2484757287776533, "zone_temp": 639.8285959224427},
+    {"target": 535.0, "predicted_outlet": 532.7449951171875, "abs_error": 2.2550048828125, "speed": 2.1712404358628006, "zone_temp": 666.2783894652006}
+  ],
+  "last_50_mean_abs_error_C": 1.5643617526815785,
+  "last_50_success_rate": 0.98,
+  "note": "Synthetic conceptual reproduction; not the original industrial dataset or author-supplied code from the paper."
+}
