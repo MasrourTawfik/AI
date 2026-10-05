@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.1",
+  "schema_version": "1.2",
   "author": {
     "name": "Tawfik Masrour",
     "orcid": "0000-0002-7761-6300"
@@ -184,6 +184,57 @@
         "Claude Bardos",
         "Tawfik Masrour",
         "Frédéric Tatout"
+      ]
+    },
+    {
+      "title": "Singularités du problème d'élastodynamique",
+      "type": "journal-article",
+      "year": 1995,
+      "venue": "Comptes rendus de l'Académie des sciences. Série I, Mathématique",
+      "volume": "320",
+      "issue": "9",
+      "pages": "1157-1160",
+      "authors": [
+        "Claude Bardos",
+        "Tawfik Masrour",
+        "Frédéric Tatout"
+      ]
+    },
+    {
+      "title": "Mesures de défaut : observation et contrôle de plaques",
+      "type": "journal-article",
+      "year": 1996,
+      "venue": "Comptes rendus de l'Académie des sciences. Série I, Mathématique",
+      "volume": "323",
+      "issue": "6",
+      "pages": "621-626",
+      "authors": [
+        "Claude Bardos",
+        "Tawfik Masrour"
+      ]
+    },
+    {
+      "title": "Convergence des fonctions propres de troisième espèce pour le laplacien",
+      "type": "journal-article",
+      "year": 1995,
+      "venue": "Comptes rendus de l'Académie des sciences. Série I, Mathématique",
+      "volume": "321",
+      "issue": "3",
+      "pages": "309-312",
+      "authors": [
+        "Tawfik Masrour"
+      ]
+    },
+    {
+      "title": "Boundary Exact Controllability of Elastodynamics Through Stiff or Soft Actuators",
+      "type": "conference-paper",
+      "year": 1997,
+      "venue": "Structural Control — Proceedings of the First European Conference",
+      "page": "116",
+      "publisher": "World Scientific",
+      "authors": [
+        "Frédéric Bourquin",
+        "Tawfik Masrour"
       ]
     }
   ]
