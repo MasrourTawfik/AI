@@ -12,48 +12,32 @@ Author identifier: ORCID 0000-0002-7761-6300
 Mohamed Quasdane, Hassan Ramchoun, Tawfik Masrour. *Knowledge-Based Systems*, 284, 111327 (2024).  
 DOI: https://doi.org/10.1016/j.knosys.2023.111327
 
-A structured sparsity method for CNNs combining smoothed L0 and L1/2 regularization at group and weight levels, with the goal of obtaining compact models while preserving predictive performance.
-
 ### [A Deep Reinforcement Learning (DRL) Decision Model for Heating Process Parameters Identification in Automotive Glass Manufacturing](papers/DRL_heating_process.md)
 Choumicha El Mazgualdi, Tawfik Masrour, Ibtissam El Hassani, Abdelmoula Khdoudi. In *Artificial Intelligence and Industrial Applications: Smart Operation Management*, pp. 77–87 (Springer publication 2021; conference work 2020).  
 DOI: https://doi.org/10.1007/978-3-030-51186-9_6
-
-An industrial DRL decision framework based on DQN for identifying heating-process parameters in tempered-glass manufacturing and reducing dependence on manual trial-and-error tuning.
 
 ### [Towards an Improved CNN Architecture for Brain Tumor Classification](papers/brain_tumor_CNN.md)
 Hajji Tarik, Masrour Tawfik, Douzi Youssef, Serrhini Simohammed, Ouazzani Jamil Mohammed, Jaara El Miloud. In *Innovation in Information Systems and Technologies to Support Learning Research*, pp. 224–234 (2020).  
 DOI: https://doi.org/10.1007/978-3-030-36778-7_24
 
-A comparative study of established CNN architectures together with a proposed architecture for MRI-based brain-tumor classification.
-
 ### [Deep Convolutional Neural Networks with Transfer Learning for Old Buildings Pathologies Automatic Detection](papers/old_buildings_transfer_learning.md)
 Tawfik Masrour, Ibtissam El Hassani, Mohammed Salim Bouchama. In *Advanced Intelligent Systems for Sustainable Development (AI2SD’2019)*, pp. 204–216 (2020).  
 DOI: https://doi.org/10.1007/978-3-030-36671-1_18
-
-A transfer-learning approach for automatic recognition of multiple pathologies affecting old buildings, including deterioration modes beyond crack detection.
 
 ### [Using Machine Learning for Predicting Efficiency in Manufacturing Industry](papers/OEE_machine_learning_efficiency.md)
 Choumicha El Mazgualdi, Tawfik Masrour, Ibtissam El Hassani, Abdelmoula Khdoudi. In *Advanced Intelligent Systems for Sustainable Development (AI2SD’2019)*, pp. 750–762 (2020).  
 DOI: https://doi.org/10.1007/978-3-030-36671-1_68
 
-A comparison of machine-learning methods for forecasting Overall Equipment Effectiveness (OEE) from real industrial production data.
-
 ### [Improved Hourly Prediction of BIPV Photovoltaic Power Building Using Artificial Learning Machine: A Case Study](papers/BIPV_hourly_prediction.md)
 Mouad Dourhmi, Kaoutar Benlamine, Ilyass Abouelaziz, Mourad Zghal, Tawfik Masrour, Youssef Jouane. In *Emerging Trends in Intelligent Systems & Network Security*, pp. 270–280 (conference 2022; Springer volume 2023).  
 Canonical DOI: https://doi.org/10.1007/978-3-031-15191-0_26
-
-Machine-learning models for short- and medium-term hourly photovoltaic power prediction in BIPV buildings using irradiance and weather variables.
 
 ### [A Review of Variational Inference for Bayesian Neural Network](papers/variational_inference_BNN_review.md)
 Mostafa Bakhouya, Hassan Ramchoun, Mohammed Hadda, Tawfik Masrour. In *Artificial Intelligence and Industrial Applications*, pp. 231–243 (2023).  
 DOI: https://doi.org/10.1007/978-3-031-43520-1_20
 
-A concise review of variational-inference methods for Bayesian neural networks, with emphasis on uncertainty-aware deep learning.
-
 ### [Optimizations of Distributed Computing Processes on Apache Spark Platform](papers/apache_spark_optimization.md)
 Tarik Hajji, Riad Loukili, Ibtissam El Hassani, Tawfik Masrour. *IAENG International Journal of Computer Science*, 50(2), 422–433 (2023).
-
-Performance optimization of Apache Spark pipelines through schema design, workload allocation and caching strategies.
 
 ## Fast-growing recent work
 
@@ -73,6 +57,18 @@ DOI: https://doi.org/10.1007/978-1-4612-1972-9_1
 
 ### [Condition nécessaire et suffisante pour la contrôlabilité exacte et la stabilisation du problème de l'élastodynamique](papers/elastodynamics_exact_controllability_1995.md)
 Claude Bardos, Tawfik Masrour, Frédéric Tatout. *Comptes rendus de l'Académie des sciences. Série I, Mathématique*, 320(10), 1279–1281 (1995).
+
+### [Singularités du problème d'élastodynamique](papers/singularites_elastodynamique_1995.md)
+Claude Bardos, Tawfik Masrour, Frédéric Tatout. *Comptes rendus de l'Académie des sciences. Série I, Mathématique*, 320(9), 1157–1160 (1995).
+
+### [Mesures de défaut : observation et contrôle de plaques](papers/mesures_defaut_plaques_1996.md)
+Claude Bardos, Tawfik Masrour. *Comptes rendus de l'Académie des sciences. Série I, Mathématique*, 323(6), 621–626 (1996).
+
+### [Convergence des fonctions propres de troisième espèce pour le laplacien](papers/convergence_fonctions_propres_laplacien_1995.md)
+Tawfik Masrour. *Comptes rendus de l'Académie des sciences. Série I, Mathématique*, 321(3), 309–312 (1995).
+
+### [Boundary Exact Controllability of Elastodynamics Through Stiff or Soft Actuators](papers/boundary_exact_controllability_elastodynamics_1997.md)
+Frédéric Bourquin, Tawfik Masrour. In *Structural Control — Proceedings of the First European Conference* (1997).
 
 ## Canonical citation metadata
 
