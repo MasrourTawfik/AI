@@ -36,7 +36,7 @@ class Config:
     n_surrogate_samples: int = 5000
     surrogate_epochs: int = 180
     surrogate_lr: float = 2e-3
-    dqn_episodes: int = 350
+    dqn_episodes: int = 140
     dqn_batch_size: int = 64
     dqn_lr: float = 8e-4
     gamma: float = 0.97
