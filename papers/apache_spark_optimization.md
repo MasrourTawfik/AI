@@ -10,11 +10,17 @@
 
 ## Research summary
 
-This work addresses performance bottlenecks in distributed big-data processing on Apache Spark. It combines schema design, workload allocation and memory caching strategies with the objective of reducing response time and improving the use of Spark execution slots.
+This work addresses performance bottlenecks in distributed big-data processing on Apache Spark. It combines schema design, workload allocation and memory caching strategies with the objective of reducing response time and improving the use of Spark execution slots. The reported case study shows a 97.77% reduction in response time under the evaluated configuration.
+
+## Recent literature referencing this work
+
+A 2025 Engineering Letters paper on Spark task scheduling in heterogeneous clusters cites this work when motivating Spark scheduling and optimization strategies:
+
+- *Spark Task Scheduling Strategy Based on Multidimensional Load Sensing*. Engineering Letters 33(11), 4341–4352 (2025).
 
 ## Keywords
 
-Apache Spark; distributed computing; big data; data allocation; caching; performance optimization; industrial data processing.
+Apache Spark; distributed computing; big data; data allocation; caching; Parquet; performance optimization; industrial data processing.
 
 ## Citation
 
