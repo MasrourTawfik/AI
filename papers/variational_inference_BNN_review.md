@@ -11,6 +11,12 @@
 
 This review introduces Bayesian neural networks from the perspective of variational inference. It discusses the motivation for uncertainty-aware deep learning and surveys practical approaches for approximating otherwise intractable Bayesian posteriors in neural-network models.
 
+## Recent literature referencing this work
+
+- Tang, Z., Xu, H. & Hu, H. *Detection Method for Bolt Loosening of Fan Base through Bayesian Learning with Small Dataset: A Real-World Application*. Computers, Materials & Continua 86(2), 1–29 (2026). https://doi.org/10.32604/cmc.2025.070616
+
+The 2026 industrial fault-detection article cites this review directly when introducing variational inference for Bayesian neural networks.
+
 ## Keywords
 
 Bayesian neural networks; variational inference; uncertainty quantification; Bayesian deep learning; probabilistic neural networks.
