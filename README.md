@@ -6,6 +6,21 @@ Author identifier: ORCID 0000-0002-7761-6300
 
 > **Citation integrity:** please cite the original publication identified by its DOI or publisher record, not this repository. The purpose of this repository is to make canonical metadata and research summaries easier to discover and reuse correctly.
 
+## Open reproducibility companions
+
+### DRL Heating Process — validated open companion
+
+A tested, transparent **synthetic conceptual reproduction** is available for the industrial DRL heating-process chapter. It implements the paper's high-level architecture — ANN process surrogate + DQN recipe controller — without claiming access to the proprietary industrial dataset or original author code.
+
+- Companion: [reproducibility/drl_heating/README.md](reproducibility/drl_heating/README.md)
+- Colab notebook: [DRL_Heating_Open_Reproduction.ipynb](reproducibility/drl_heating/DRL_Heating_Open_Reproduction.ipynb)
+- Verified example metrics: [example_metrics.json](reproducibility/drl_heating/example_metrics.json)
+- Automated CI quality gate: [.github/workflows/drl-heating-repro.yml](.github/workflows/drl-heating-repro.yml)
+
+[Open directly in Google Colab](https://colab.research.google.com/github/MasrourTawfik/AI/blob/master/reproducibility/drl_heating/DRL_Heating_Open_Reproduction.ipynb)
+
+The companion explicitly directs users to cite the **original Springer chapter**: https://doi.org/10.1007/978-3-030-51186-9_6
+
 ## Priority publications
 
 ### [Sparse smooth group L0∘L1/2 regularization method for convolutional neural networks](papers/sparse_SSG_L0_L12_CNN.md)
