@@ -13,6 +13,12 @@ This work applies transfer learning with deep convolutional neural networks to a
 
 The case study uses imagery from old buildings in the medinas of Fez and Meknes and evaluates pretrained CNN architectures on a multi-class pathology-recognition task.
 
+## Selected later literature that references this work
+
+- Pinto, G., Wang, Z., Roy, A., Hong, T. & Capozzoli, A. *Transfer learning for smart buildings: A critical review of algorithms, applications, and future perspectives*. Advances in Applied Energy (2022). https://doi.org/10.1016/j.adapen.2022.100084
+- *Detecting surface defects of heritage buildings based on ...* Journal of Intelligent Systems (2023). The paper references the Springer chapter through DOI 10.1007/978-3-030-36671-1_18.
+- *Deep learning-driven pathology detection and analysis in historic masonry buildings of Suzhou*. npj Heritage Science (2025). https://doi.org/10.1038/s40494-025-01783-y
+
 ## Keywords
 
 Transfer learning; deep CNN; heritage buildings; old buildings; structural pathology; defect detection; computer vision.
