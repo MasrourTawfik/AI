@@ -13,6 +13,16 @@ This work studies whether deep reinforcement learning can identify suitable heat
 
 The study is an industrial application of reinforcement learning to process parameter configuration and provides a basis for subsequent work on autonomous optimization and energy-aware smart manufacturing.
 
+## Open reproducibility companion
+
+A tested synthetic conceptual reproduction of the paper's high-level architecture (ANN process surrogate + DQN controller) is available here:
+
+- [Companion README](../reproducibility/drl_heating/README.md)
+- [Google Colab notebook](https://colab.research.google.com/github/MasrourTawfik/AI/blob/master/reproducibility/drl_heating/DRL_Heating_Open_Reproduction.ipynb)
+- [Verified example metrics](../reproducibility/drl_heating/example_metrics.json)
+
+The companion is explicitly separated from the original industrial dataset and directs users to cite the Springer chapter.
+
 ## Selected later literature that references this work
 
 - Panzer, M. & Bender, B. *Deep reinforcement learning in production systems: a systematic literature review*. International Journal of Production Research. https://doi.org/10.1080/00207543.2021.1973138
