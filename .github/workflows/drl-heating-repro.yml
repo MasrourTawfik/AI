@@ -1,0 +1,30 @@
+name: DRL Heating Reproducibility
+
+on:
+  push:
+    paths:
+      - "reproducibility/drl_heating/**"
+      - ".github/workflows/drl-heating-repro.yml"
+  pull_request:
+    paths:
+      - "reproducibility/drl_heating/**"
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: reproducibility/drl_heating
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+          cache-dependency-path: reproducibility/drl_heating/requirements.txt
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Unit tests
+        run: pytest -q
+      - name: Smoke run
+        run: python drl_heating_repro.py --episodes 20 --out smoke_artifacts
