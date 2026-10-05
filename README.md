@@ -1,6 +1,6 @@
-# Selected AI Research — Tawfik Masrour
+# Selected AI and Applied Mathematics Research — Tawfik Masrour
 
-This repository is a compact, canonical index of selected research outputs in artificial intelligence, machine learning, deep reinforcement learning, sparse neural networks, Bayesian deep learning, distributed computing, and industrial AI.
+This repository is a compact, canonical index of selected research outputs in artificial intelligence, machine learning, deep reinforcement learning, sparse neural networks, Bayesian deep learning, distributed computing, industrial AI, and mathematical control.
 
 Author identifier: ORCID 0000-0002-7761-6300
 
@@ -65,10 +65,20 @@ DOI: https://doi.org/10.1007/s12530-024-09574-9
 Mostafa Bakhouya, Hassan Ramchoun, Mohammed Hadda, Tawfik Masrour. *Evolutionary Intelligence*, 17(4), 2515–2536 (2024).  
 DOI: https://doi.org/10.1007/s12065-023-00900-9
 
+## Foundational mathematical-control work
+
+### [Observation and Control of Elastic Waves](papers/observation_control_elastic_waves.md)
+Claude Bardos, Tawfik Masrour, Frederic Tatout. In *Singularities and Oscillations*, IMA Vol. 91, pp. 1–16 (1997).  
+DOI: https://doi.org/10.1007/978-1-4612-1972-9_1
+
+### [Condition nécessaire et suffisante pour la contrôlabilité exacte et la stabilisation du problème de l'élastodynamique](papers/elastodynamics_exact_controllability_1995.md)
+Claude Bardos, Tawfik Masrour, Frédéric Tatout. *Comptes rendus de l'Académie des sciences. Série I, Mathématique*, 320(10), 1279–1281 (1995).
+
 ## Canonical citation metadata
 
 - Curated BibTeX: publications/priority_papers.bib
 - Machine-readable metadata: publications/metadata.json
+- Plain-language dissemination text: dissemination/plain_language_summaries.md
 
 ## Author
 
